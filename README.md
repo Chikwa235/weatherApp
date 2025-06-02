@@ -28,4 +28,4 @@ Clean and minimal design
 
 Fully responsive across devices
 
-🔗 Live Demo Check It Out Here ()
+🔗 Live Demo Check It Out Here (https://chikwa235.github.io/weatherApp/)

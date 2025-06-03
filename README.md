@@ -10,6 +10,20 @@
 
 🌥️ Weather conditions with an icon
 
+Folder structure
+weatherApp/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── app.js
+├── assets/
+│   ├── images/
+│   └── icons/
+├── README.md
+└── .gitignore
+
+
 🔧 Technologies Used HTML5
 
 CSS3
